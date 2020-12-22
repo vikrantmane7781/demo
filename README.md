@@ -1,2 +1,0 @@
-# demo
-it demo folder
